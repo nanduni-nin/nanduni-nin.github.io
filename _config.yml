@@ -87,24 +87,24 @@ author:
   location         : "Sydney, Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=T-aDk3oAAAAJ&hl=en"
-  email            : #"nanduni.nimalsiri@anu.edu.au", "nandunibw@gmail.com"
-  researchgate     : #"https://www.researchgate.net/profile/Nanduni-Nimalsiri"
+  googlescholar    : "https://scholar.google.com/citations?user=T-aDk3oAAAAJ&hl=en"
+  email            : "nanduni.nimalsiri@anu.edu.au", "nandunibw@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Nanduni-Nimalsiri"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"https://www.facebook.com/nanduni.nin/"
+  facebook         : "https://www.facebook.com/nanduni.nin/"
   foursquare       :
-  github           : #"https://github.com/nanduni-nin"
+  github           : "https://github.com/nanduni-nin"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/nanduni/"
-  orcid            : #"https://orcid.org/0000-0002-9338-0596"
+  linkedin         : "https://www.linkedin.com/in/nanduni/"
+  orcid            : "https://orcid.org/0000-0002-9338-0596"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
