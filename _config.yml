@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : # &name "Nanduni Nimalsiri"
+name                     : &name "Nanduni Nimalsiri"
 description              : &description "personal description"
 url                      : https://nanduni-nin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
