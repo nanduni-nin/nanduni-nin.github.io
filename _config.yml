@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nanduni Nimalsiri"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Nanduni Nimalsiri"
 description              : &description "personal description"
