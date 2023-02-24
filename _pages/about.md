@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nanduni Nimalsiri"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
