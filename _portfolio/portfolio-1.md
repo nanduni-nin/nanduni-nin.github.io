@@ -1,7 +1,4 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+My PhD research focused on the development of optimization-based control approaches to enable seamless Electric Vehicle (EV) grid integration. Major contributions included several demand-side algorithmic approaches for coordinating residential EV charging and discharging, with emphasis on customer satisfaction, energy cost minimization, safe and reliable distribution network operation, and distributed coordination. A Thesis titled `Electric Vehicle-Assisted Demand-Side Management in Smart Grid' and five refereed publications (in Q1 journals based on the Scimago Journal Rankings) resulted from this research.
