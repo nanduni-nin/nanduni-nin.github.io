@@ -2,22 +2,26 @@
 main:
 
   - title: "Education"
-    url: /education/   
+    url: /education/  
     
+  - title: "Professional Experience"
+    url: /professional_experience/
+      
   - title: "Publications"
     url: /publications/
+    
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Research"
-    url: /research/
+
         
-  - title: "Professional Experience"
-    url: /professional_experience/
+  
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #  url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/
