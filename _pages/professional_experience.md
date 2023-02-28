@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ### Postdoctoral Research Fellow, The Australian National University (ANU), Australia
+<div style="text-align: right"> <i>Current, from April 2022</i> </div>
 <i>Current, from April 2022</i>  
 I am currently a Postdoctoral Research Fellow with the Power Systems & Optimization research group in the School of Engineering, ANU College of Engineering and Computer Science, where our group focuses on controlling renewable and distributed energy sources within power grids.
 
