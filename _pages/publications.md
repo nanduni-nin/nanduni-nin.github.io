@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### A Distributed Optimization Approach to Electric Vehicle Charging and Discharging in Unbalanced Distribution Networks
+<b>Nimalsiri, N.I.</b>, Ratnam, E.L., Smith, D.B., Mediwaththe, C.P., & Halgamuge, S.K.  
+[TechRxiv](https://www.techrxiv.org/articles/preprint/Distributed_Optimization-based_Electric_Vehicle_Charging_and_Discharging_in_Unbalanced_Distribution_Grids/16920889), 2021
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Coordinated charging and discharging control of electric vehicles to manage supply voltages in distribution networks: Assessing the customer benefit
+<b>Nimalsiri, N. I.</b>, Ratnam, E.L., Mediwaththe, C.P., Smith, D.B. & Halgamuge, S.K. 
+Applied Energy, er benefit’, Applied Energy, 2021
