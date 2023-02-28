@@ -18,6 +18,7 @@ I am currently a Postdoctoral Research Fellow with the Power Systems & Optimizat
 I worked as an Academic Tutor at the [USYD School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html).
 
   &nbsp;<br>
+  &nbsp;<br>
 
 
 ### Software Engineer, Sysco LABS, Sri Lanka
@@ -25,11 +26,13 @@ I worked as an Academic Tutor at the [USYD School of Computer Science](https://w
 I worked as a Software Engineer in the Platform Engineering Team of the IT company [Sysco LABS](https://www.syscolabs.com/), which is the captive innovation arm of Sysco Corporation --- the world’s largest food service company.
 
   &nbsp;<br>
+  &nbsp;<br>
 
 ### Visiting Instructor, University of Moratuwa, Sri Lanka
 <div style="text-align: right"> <i>2014 --- 2017</i> </div>
 I worked as a Teaching Assistant at the Department of Computer Science & Engineering at the University of Moratuwa, where I instrcuted a number of courses.
 
+  &nbsp;<br>
   &nbsp;<br>
 
 ### Google Summer of Code Intern and Contributor
@@ -37,6 +40,8 @@ I worked as a Teaching Assistant at the Department of Computer Science & Enginee
 Under the Google Summer of Code (GSoC) global program, I did an Internship working on a coding project with the [KDE](https://kde.org/) (an open source organization) to develop a new user experience and functionality overhaul for the Inqlude website.
 
   &nbsp;<br>
+  &nbsp;<br>
+
 
 ### Trainee Software Engineer, WSO2 Lanka (Pvt) Ltd, Sri Lanka
 <div style="text-align: right"> <i>2015 --- 2016</i> </div>
