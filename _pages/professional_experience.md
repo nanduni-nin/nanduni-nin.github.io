@@ -22,7 +22,7 @@ I worked as a Software Engineer in the Platform Engineering Team of the IT compa
 
 ### Visiting Instructor, University of Moratuwa, Sri Lanka
 <i>2014 -- 2017</i>  
-I worked as a Teaching Assistant at the Department of Computer Science \& Engineering at the University of Moratuwa, where I instrcuted a number of courses.
+I worked as a Teaching Assistant at the Department of Computer Science & Engineering at the University of Moratuwa, where I instrcuted a number of courses.
 
 ### Google Summer of Code Intern and Contributor
 <i>2016</i>  
