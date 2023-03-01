@@ -14,7 +14,11 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+    
+ - title: "Awards & Scholarships"
+    url: /awards_scholarships/ 
+       
     
 
         
