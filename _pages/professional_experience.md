@@ -11,7 +11,6 @@ redirect_from:
 <div style="text-align: left"> <i>Current, from April 2022</i> </div>
 I am currently a Postdoctoral Research Fellow with the Power Systems & Optimization research group in the School of Engineering, [ANU College of Engineering and Computer Science](https://cecc.anu.edu.au/), where our group focuses on controlling renewable and distributed energy sources within power grids.
 
-  &nbsp;<br>
 
 ### Academic Tutor, The University of Sydney (USYD), Australia
 <div style="text-align: left"> <i>2019 --- 2020</i> </div>
