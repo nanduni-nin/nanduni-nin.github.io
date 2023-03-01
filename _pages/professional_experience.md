@@ -13,14 +13,14 @@ I am currently a Postdoctoral Research Fellow with the Power Systems & Optimizat
 
 
 ### - Academic Tutor, The University of Sydney (USYD), Australia
-<div style="text-align: left"> <i>2019 --- 2020</i> </div>
+<div style="text-align: left"> <i>2019 -- 2020</i> </div>
 I worked as an Academic Tutor at the [USYD School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html).
 
   
 
 
 ### - Software Engineer, Sysco LABS, Sri Lanka
-<div style="text-align: left"> <i>2017 --- 2018</i> </div>
+<div style="text-align: left"> <i>2017 -- 2018</i> </div>
 I worked as a Software Engineer in the Platform Engineering Team of the IT company [Sysco LABS](https://www.syscolabs.com/), which is the captive innovation arm of Sysco Corporation --- the world’s largest food service company.
 
 
