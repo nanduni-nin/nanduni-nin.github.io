@@ -1,10 +1,10 @@
 ---
-permalink: /teaching/
+permalink: /teachings/
 title: "Teaching"
 author_profile: true
 redirect_from: 
   - /md/
-  - /teaching.html
+  - /teachings.html
 ---
 
 ### Co-lecturer, The Australian National University
