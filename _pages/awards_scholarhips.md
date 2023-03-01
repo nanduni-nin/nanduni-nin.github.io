@@ -1,5 +1,5 @@
 ---
-permalink: /awards-scholarhips/
+permalink: /awards_scholarhips/
 title: "Awards & Scholarships"
 author_profile: true
 ---
