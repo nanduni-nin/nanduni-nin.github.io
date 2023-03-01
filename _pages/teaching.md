@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "Teaching"
 permalink: /teaching/
+title: "Teaching"
 author_profile: true
+redirect_from: 
+  - /md/
+  - /teaching.html
 ---
 
 ### Co-lecturer, The Australian National University
