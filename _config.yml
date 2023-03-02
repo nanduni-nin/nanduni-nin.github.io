@@ -85,7 +85,7 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoctoral Research Fellow"
   location         : "Sydney, Australia"
-  employer         : "https://cecc.anu.edu.au/people/nanduni-nimalsiri"
+  employer         : #"https://cecc.anu.edu.au/people/nanduni-nimalsiri"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=T-aDk3oAAAAJ&hl=en"
   email            : "nanduni.nimalsiri@anu.edu.au"
