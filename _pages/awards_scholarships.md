@@ -25,10 +25,10 @@ author_profile: true
 * <b>Mahapola Higher Education Scholarship.</b>  
     <i>Awarded by the Mahapola Trust Fund, Sri Lanka for achieving a merit pass at the G.C.E Advanced Level Examination (Physical Science Stream).</i>
     
-* <b>Diploma in Information Technology (DiTEC).</b>  
+* <b>Diploma in Information Technology (DiTEC)</b>  
     <i>Awarded by the ESOFT Metro Campus, Sri Lanka.</i>
     
-* <b>ACES Coders</b> Programming competition.  
-    <i>Won 4th Place in 2015 and 5th place in 2014.</i>
+* <b>ACES Coders</b> Programming competition, Sri Lanka 
+    <i>ACES Coders is Sri Lanka's biggest programming competition to recognize Sri Lanka's top up-and-coming programmers from almost all universities and institutions. Won 4th Place in ACES Coders 2015 and 5th place in ACES Coders 2014.</i>
     
     
