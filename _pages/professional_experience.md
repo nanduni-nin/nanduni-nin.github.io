@@ -33,12 +33,12 @@ I worked as a Teaching Assistant at the Department of Computer Science & Enginee
 
 ### - Google Summer of Code Intern and Contributor
 <div style="text-align: left"> <i>2016</i> </div>
-Under the Google Summer of Code (GSoC) global program, I did an Internship working on a coding project with the [KDE](https://kde.org/) (an open source organization) to develop a new user experience and functionality overhaul for the Inqlude website.
+Under the Google Summer of Code (GSoC) global program, I did an Internship working on a coding project with the [KDE](https://kde.org/) (an open source organization) to develop a new user experience and functionality overhaul for the Inqlude website. My experiences during this project are shared in [Blogger](http://nandunigsoc.blogspot.com/).
 
 
 
 
 ### - Trainee Software Engineer, WSO2 Lanka (Pvt) Ltd, Sri Lanka
 <div style="text-align: left"> <i>2015 - 2016</i> </div>
-In the third year of my Bsc. degree, I did an internship at the [WSO2](https://wso2.com/) Computer Application Company --- an open-source technology provider for deploying applications and services on-premises, on clouds, or in hybrid environments --- where I worked closely with the Cloud Engineering Team.
+In the third year of my Bsc. degree, I did an internship at the [WSO2](https://wso2.com/) Computer Application Company --- an open-source technology provider for deploying applications and services on-premises, on clouds, or in hybrid environments --- where I worked closely with the Cloud Engineering Team. My experiences during this internship are shared in my [Tech Blog](http://nanduni.blogspot.com/) and [Medium](https://medium.com/@nanduni).
 
