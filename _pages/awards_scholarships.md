@@ -7,7 +7,6 @@ author_profile: true
 * The <b>HDR Fee Merit Scholarship</b>, the <b>Australian Government Research Training Program Fee Offset Scholarship</b>, the <b>Data61 PhD Scholarship</b> and the <b>Top-up PhD Scholarship</b>.  
 <i>The first two were awarded by the Australian National University, and the last two were awarded by the CSIRO's Data61 to support my PhD.</i>
 
-* A <b>Fellow of Engineers, Australia</b> and a <b>Fellow of the Institution of Engineers, Sri Lanka</b>.
 
 * <b>Dean's List</b> in all academic semesters of B.Sc. (Honours) in Engineering, with a GPA of 4.20/4.20 in the final semester and an overall cumulative GPA of 4.05/4.20 through all semesters.  
 <i> Awarded by the Dean, Faculty of Engineering, University of Moratuwa, Sri Lanka, for being a full time undergraduate student who achieved a semester grade point average of 3.80/4.20 or better, had no incomplete grade or failures, and had no disciplinary actions reported.</i>
